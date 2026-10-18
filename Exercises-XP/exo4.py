@@ -5,7 +5,7 @@
 
 computer_brand = "razer"
 
-print(f"I have{computer_brand} computer.")
+print(f"I have {computer_brand} computer.")
 
 
 

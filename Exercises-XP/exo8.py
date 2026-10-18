@@ -4,7 +4,7 @@
 
 name = input("What's your name")
 
-if name.title == "Nathan":
+if name.title() == "Nathan":
     print("You just met your clone")
 else :
     print("We are not meant to be friends")
